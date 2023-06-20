@@ -1,0 +1,6 @@
+fozaojarid85
+Ppfsd46FUg8fVjrM
+
+mongodb+srv://fozaojarid85:Ppfsd46FUg8fVjrM@reactbackend.7kyf4cc.mongodb.net/
+
+mongodb+srv://fozaojarid85:Ppfsd46FUg8fVjrM@reactbackend.7kyf4cc.mongodb.net/?retryWrites=true&w=majority
